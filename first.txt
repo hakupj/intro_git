@@ -5,3 +5,12 @@ Gitの練習をしていきます。
 ・git commit
 ・git rm
 ・git status
+
+#一行で表示する
+・git log --oneline
+#直近のn個を見る　oneline　オプションと組み合わせ可能
+・git log -n 3
+
+・git log -p
+
+・git diff
